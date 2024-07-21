@@ -473,14 +473,14 @@ html, body {
 
 .hero {
   height: 860px;
-  background-image: url("./img/hero/Frame 796.jpg");
+  background-image: url("././img/hero/Frame 796.jpg");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
 }
 @media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) {
   .hero {
-    background-image: url("./img/hero/Frame 796@2x.jpg");
+    background-image: url("././img/hero/Frame 796@2x.jpg");
   }
 }
 @media (max-width: 1184px) {
@@ -490,13 +490,13 @@ html, body {
 }
 @media (max-width: 840px) {
   .hero {
-    background-image: url("./img/hero/mobile-hero.jpg");
+    background-image: url("././img/hero/mobile-hero.jpg");
     height: 692px;
   }
 }
 @media (max-width: 840px) and (-webkit-min-device-pixel-ratio: 2), (max-width: 840px) and (min-resolution: 192dpi) {
   .hero {
-    background-image: url("./img/hero/mobile-hero@2x.jpg");
+    background-image: url("././img/hero/mobile-hero@2x.jpg");
   }
 }
 
@@ -873,14 +873,14 @@ html, body {
 .promotion::after {
   width: 50%;
   content: "";
-  background-image: url("./img/promotion/promotion.jpg");
+  background-image: url("././img/promotion/promotion.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
 }
 @media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) {
   .promotion::after {
-    background-image: url("./img/promotion/promotion@2x.jpg");
+    background-image: url("././img/promotion/promotion@2x.jpg");
   }
 }
 @media (max-width: 840px) {
@@ -1311,7 +1311,7 @@ html, body {
 
 .newsletter {
   background-color: #F2F4F6;
-  background-image: url("./img/newsletter/1@2x.jpg");
+  background-image: url("././img/newsletter/1@2x.jpg");
   background-size: cover;
   background-position: center;
   height: 360px;
